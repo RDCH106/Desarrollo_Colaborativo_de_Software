@@ -1,0 +1,1379 @@
+{
+  "slides": [
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 400,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">por&nbsp;</div><font><div style=\"text-align: center;\">Rubén de Celis Hernández</div></font>",
+          "size": 36,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 243,
+          "y": 113,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 46,
+          "text": "<font>Desarrollo Colaborativo de Software</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 400,
+          "y": 460,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<div style=\"text-align: center;\">Licencia Creative Commons&nbsp;</div><div style=\"text-align: center;\">Atribución-NoComercial 4.0 Internacional</div>",
+          "selected": false
+        },
+        {
+          "src": "https://i.creativecommons.org/l/by-nc/4.0/88x31.png",
+          "type": "Image",
+          "x": 540,
+          "y": 560,
+          "scale": {
+            "x": 1.9090909090909092,
+            "y": 1.9090909090909092,
+            "width": 168,
+            "height": 59.18181818181819
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://mascandobits.es/blog/wp-content/uploads/2016/01/jetpacktocat.png",
+          "type": "Image",
+          "x": 18,
+          "y": 350,
+          "scale": {
+            "x": 0.43973214285714285,
+            "y": 0.43973214285714285,
+            "width": 394,
+            "height": 394
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 700,
+          "y": 700,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 26,
+          "text": "powered by<br>",
+          "selected": false
+        },
+        {
+          "src": "https://raw.githubusercontent.com/RDCH106/Libertad_en_el_Software/1b476e94/Libertad_en_el_Software_files/5bfbc848.logo.png",
+          "type": "Image",
+          "x": 841,
+          "y": 676,
+          "scale": {
+            "x": 0.5294117647058824,
+            "y": 0.5294117647058824,
+            "width": 135,
+            "height": 30.176470588235293
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://raw.githubusercontent.com/RDCH106/Libertad_en_el_Software/1b476e94/Libertad_en_el_Software_files/impress-js.png",
+          "type": "Image",
+          "x": 845,
+          "y": 708,
+          "scale": {
+            "x": 0.37142857142857144,
+            "y": 0.37142857142857144,
+            "width": 130,
+            "height": 37.142857142857146
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 480,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 189,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 70,
+          "text": "<font>Historia de GitHub</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/HAlcFkQ.png",
+          "type": "Image",
+          "x": 683,
+          "y": 89,
+          "scale": {
+            "x": 0.36,
+            "y": 0.36,
+            "width": 288,
+            "height": 239.39999999999998
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/P1U41xg.png",
+          "type": "Image",
+          "x": 186,
+          "y": 298,
+          "scale": {
+            "x": 0.671875,
+            "y": 0.671875,
+            "width": 172,
+            "height": 172
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 433,
+          "y": 400,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 43,
+          "text": "De la Forja al Social Coding<br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/zO8EKXQ.png",
+          "type": "Image",
+          "x": 101,
+          "y": 512,
+          "scale": {
+            "x": 0.31764705882352945,
+            "y": 0.31764705882352945,
+            "width": 270.00000000000006,
+            "height": 114.67058823529413
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/9Nmaytz.png",
+          "type": "Image",
+          "x": 25,
+          "y": 610,
+          "scale": {
+            "x": 0.6178343949044586,
+            "y": 0.6178343949044586,
+            "width": 194,
+            "height": 120.47770700636943
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/TOCXYiS.png",
+          "type": "Image",
+          "x": 440,
+          "y": 520,
+          "scale": {
+            "x": 0.64375,
+            "y": 0.64375,
+            "width": 206,
+            "height": 154.5
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/yeg1aCl.png",
+          "type": "Image",
+          "x": 740,
+          "y": 540,
+          "scale": {
+            "x": 0.8838174273858921,
+            "y": 0.8838174273858921,
+            "width": 213,
+            "height": 94.56846473029046
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-arrows/006764-3d-transparent-glass-icon-arrows-arrowhead-solid-right.png",
+          "type": "Image",
+          "x": 340,
+          "y": 560,
+          "scale": {
+            "x": 0.16796875,
+            "y": 0.16796875,
+            "width": 86,
+            "height": 86
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons/3d-transparent-glass-icons-arrows/006764-3d-transparent-glass-icon-arrows-arrowhead-solid-right.png",
+          "type": "Image",
+          "x": 640,
+          "y": 560,
+          "scale": {
+            "x": 0.16796875,
+            "y": 0.16796875,
+            "width": 86,
+            "height": 86
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 780,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 61,
+          "y": 52,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 70,
+          "text": "Creación de Git<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 159,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 35,
+          "text": "Catalizador y Piedra Angular para el Desarrollo Colaborativo<br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/n56tfOV.png",
+          "type": "Image",
+          "x": 73,
+          "y": 317,
+          "scale": {
+            "x": 0.4649910233393178,
+            "y": 0.4649910233393178,
+            "width": 259,
+            "height": 257.14003590664277
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 97,
+          "y": 597,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Linus Torvald</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 134,
+          "y": 671,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 34,
+          "text": "<i>\"se enfretaba al\nsobredimensionamiento de su proyecto\"</i><br>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/z79chF4.png",
+          "type": "Image",
+          "x": 463,
+          "y": 259,
+          "scale": {
+            "x": 0.4671814671814672,
+            "y": 0.4671814671814672,
+            "width": 121,
+            "height": 163.51351351351352
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/RWDrWtt.png",
+          "type": "Image",
+          "x": 690,
+          "y": 286,
+          "scale": {
+            "x": 0.08388888888888889,
+            "y": 0.08388888888888889,
+            "width": 151,
+            "height": 130.36333333333334
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/KjDvMng.png",
+          "type": "Image",
+          "x": 480,
+          "y": 260,
+          "scale": {
+            "x": 0.42789598108747046,
+            "y": 0.42789598108747046,
+            "width": 181,
+            "height": 131.7919621749409
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/KjDvMng.png",
+          "type": "Image",
+          "x": 700,
+          "y": 260,
+          "scale": {
+            "x": 0.42789598108747046,
+            "y": 0.42789598108747046,
+            "width": 181,
+            "height": 131.7919621749409
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/7Zldf8u.png",
+          "type": "Image",
+          "x": 520,
+          "y": 460,
+          "scale": {
+            "x": 0.3010989010989011,
+            "y": 0.3010989010989011,
+            "width": 274,
+            "height": 114.41758241758241
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 777,
+          "y": 537,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>2005</font>",
+          "selected": false,
+          "rotate": -0.77
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1080,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 240,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 70,
+          "text": "<font>Flujo de Trabajo con Git</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/hluDJfR.png",
+          "type": "Image",
+          "x": 20,
+          "y": 160,
+          "scale": {
+            "x": 0.9511400651465799,
+            "y": 0.9511400651465799,
+            "width": 584,
+            "height": 254.9055374592834
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/h8BEDG4.png",
+          "type": "Image",
+          "x": 447,
+          "y": 269,
+          "scale": {
+            "x": 0.5579567779960707,
+            "y": 0.5579567779960707,
+            "width": 568,
+            "height": 478.72691552062867
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1380,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 200,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 70,
+          "text": "<font>GitHub y su consolidación</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 120,
+          "y": 220,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Source Forge (1999)<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 120,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<a href=\"http://mascandobits.es/aplicaciones/google-code-cierra-sus-puerta/\" target=\"_blank\">Google Code</a> (2006)<br>Code Plex (2006)<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 131,
+          "y": 522,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "Bitbucket (2008)<br>GitHub (2008)<br>GitLab (2011) --&gt; Open Source<br>",
+          "selected": false
+        },
+        {
+          "src": "https://i0.wp.com/cdn.shopify.com/s/files/1/0185/5092/products/persons-0006_large.png",
+          "type": "Image",
+          "x": 40,
+          "y": 637,
+          "scale": {
+            "x": 0.12916666666666668,
+            "y": 0.12916666666666668,
+            "width": 62.00000000000001,
+            "height": 62.00000000000001
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://cloud.google.com/images/products/source-repositories/github.png",
+          "type": "Image",
+          "x": 661,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://www.openshift.com/images/partners/gitlab.png",
+          "type": "Image",
+          "x": 710,
+          "y": 432,
+          "scale": {
+            "x": 0.23472668810289393,
+            "y": 0.23472668810289393,
+            "width": 146.00000000000003,
+            "height": 160.08360128617366
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1380,
+      "y": 420
+    },
+    {
+      "components": [
+        {
+          "src": "https://cdn.rawgit.com/RDCH106/Libertad_en_el_Software/1b476e94/Libertad_en_el_Software_files/SoftwareLibre-vs-OpenSource.jpg",
+          "type": "Image",
+          "x": 60,
+          "y": 0,
+          "scale": {
+            "x": 0.44140624999999994,
+            "y": 0.44140624999999994,
+            "width": 903.9999999999999,
+            "height": 768.9296874999999
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1680,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 51,
+          "text": "<font>¿Qué hace a GitHub tan especial?</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 51,
+          "y": 180,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font>Unifica la gestión de varios aspectos relevantes <br>&nbsp; &nbsp; &nbsp; &nbsp;en el desarrollo de software:</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 122,
+          "y": 317,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<ul><li>Gestión de proyectos (PDCA)<br></li><li><a href=\"http://mascandobits.es/tips/eligiendo-licencia-open-source/\" target=\"_blank\">Gestión de licencias</a><br></li><li>Comunicación horizontal<br></li><li>Gestión de conocimiento comunitario<br></li><li>Escrutinio público del estado del proyecto<br></li><li>Trazabilidad del trabajo realizado<br></li><li>Gestión de mejoras y errores<br></li><li>Integración de servicios de terceros<br></li><li>....</li></ul><font>Todo ello gratuito para repositorios públicos<br></font>",
+          "selected": false
+        },
+        {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/PDCA_Cycle.svg/1200px-PDCA_Cycle.svg.png",
+          "type": "Image",
+          "x": 644,
+          "y": 265,
+          "scale": {
+            "x": 0.16166666666666668,
+            "y": 0.16166666666666668,
+            "width": 194.00000000000003,
+            "height": 132.08166666666668
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/8R6G94m.png",
+          "type": "Image",
+          "x": 725,
+          "y": -3,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1680,
+      "y": 420
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 60,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 59,
+          "text": "<font>Servicios integrables</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 180,
+          "y": 660,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 35,
+          "text": "Más de &nbsp;130 <a href=\"https://github.com/integrations\" target=\"_blank\">servicios integrables con GitHub</a>&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 125,
+          "y": 201,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 30,
+          "text": "<ul><li>Integración continua:<br></li></ul><font>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Testeo<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Despliegue<br><br><ul><li>Revisión de código:<br></li></ul>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Calidad<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Seguridad<br><br><ul><li>Localización del software<br></li></ul><div><br></div><div><ul><li>...<br></li></ul></div><br></font>",
+          "selected": false
+        },
+        {
+          "src": "https://cdn.travis-ci.com/images/logos/TravisCI-Full-Color-45e242791b7752b745a7ae53f265acd4.png",
+          "type": "Image",
+          "x": 600,
+          "y": 240,
+          "scale": {
+            "x": 0.411214953271028,
+            "y": 0.411214953271028,
+            "width": 264,
+            "height": 82.65420560747663
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://pedrorijo.com/assets/img/codacy-logo-name.png",
+          "type": "Image",
+          "x": 560,
+          "y": 380,
+          "scale": {
+            "x": 1.0529411764705883,
+            "y": 1.0529411764705883,
+            "width": 358,
+            "height": 105.29411764705883
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://lingohub.com/wp-content/uploads/2015/03/lh_1000x300.png",
+          "type": "Image",
+          "x": 620,
+          "y": 520,
+          "scale": {
+            "x": 0.254,
+            "y": 0.254,
+            "width": 254,
+            "height": 76.2
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1980,
+      "y": 420
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 240,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font>Git * GitHub = Git²</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/u6w7xbu.png",
+          "type": "Image",
+          "x": 37,
+          "y": 191,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://cdn0.iconfinder.com/data/icons/octicons/1024/git-pull-request-128.png",
+          "type": "Image",
+          "x": 372,
+          "y": 217,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/KA0KA0I.png",
+          "type": "Image",
+          "x": 83,
+          "y": 421,
+          "scale": {
+            "x": 0.8405379442843421,
+            "y": 0.8405379442843421,
+            "width": 875.0000000000001,
+            "height": 315.2017291066283
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 120,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Fork</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 280,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Pull Request</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/lD6EQBt.png",
+          "type": "Image",
+          "x": 580,
+          "y": 300,
+          "scale": {
+            "x": 0.512,
+            "y": 0.512,
+            "width": 384,
+            "height": 52.224000000000004
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://arakawa.asia/images/rss.png",
+          "type": "Image",
+          "x": 860,
+          "y": 220,
+          "scale": {
+            "x": 0.132,
+            "y": 0.132,
+            "width": 66,
+            "height": 66
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 485,
+          "y": 717,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font>Discusión y Revisión<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 720,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font>Social</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/6rqfbXE.png",
+          "type": "Image",
+          "x": 600,
+          "y": 180,
+          "scale": {
+            "x": 0.2675,
+            "y": 0.2675,
+            "width": 214,
+            "height": 117.4325
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 2280,
+      "y": 420
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 240,
+          "y": 60,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font>Ser social es una necesidad</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 40,
+          "y": 560,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">Internet</div><font><div style=\"text-align: center;\">Instrumento Democratizador</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 600,
+          "y": 560,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">Open Source</div><font><div style=\"text-align: center;\">Próxima Revolución</div></font>",
+          "selected": false
+        },
+        {
+          "src": "http://www.freeiconspng.com/uploads/the-peace-on-demand--peace-revolution-8.png",
+          "type": "Image",
+          "x": 712,
+          "y": 643,
+          "scale": {
+            "x": 0.18,
+            "y": 0.18,
+            "width": 108,
+            "height": 108
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-68-Internet-icon.png",
+          "type": "Image",
+          "x": 218,
+          "y": 657,
+          "scale": {
+            "x": 0.1953125,
+            "y": 0.1953125,
+            "width": 100,
+            "height": 100
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 100,
+          "y": 240,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">Sistema de Información</div><font><div style=\"text-align: center;\">&nbsp;Personal</div></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 580,
+          "y": 240,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<div style=\"text-align: center;\">Sistema de Información</div><font><div style=\"text-align: center;\">&nbsp;Público y Colectivo</div></font>",
+          "selected": false
+        },
+        {
+          "src": "https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/evernote.png",
+          "type": "Image",
+          "x": 224,
+          "y": 365,
+          "scale": {
+            "x": 0.3166666666666667,
+            "y": 0.3166666666666667,
+            "width": 114.00000000000001,
+            "height": 114.00000000000001
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png",
+          "type": "Image",
+          "x": 640,
+          "y": 380,
+          "scale": {
+            "x": 0.176,
+            "y": 0.176,
+            "width": 88,
+            "height": 88
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://image.flaticon.com/icons/png/512/23/23957.png",
+          "type": "Image",
+          "x": 740,
+          "y": 380,
+          "scale": {
+            "x": 0.1796875,
+            "y": 0.1796875,
+            "width": 92,
+            "height": 92
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://alternativeto.net/apple-touch-icon.png",
+          "type": "Image",
+          "x": 846,
+          "y": 380,
+          "scale": {
+            "x": 0.1640625,
+            "y": 0.1640625,
+            "width": 84,
+            "height": 84
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 0
+        },
+        {
+          "TextBox": {},
+          "x": 418,
+          "y": 375,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font><b>Proyección<br>Profesional</b><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": true,
+      "x": 2580,
+      "y": 420
+    },
+    {
+      "components": [
+        {
+          "src": "http://ericsteinborn.com/github-for-cats/img/Professortocat_v2.png",
+          "type": "Image",
+          "x": 501,
+          "y": 243,
+          "scale": {
+            "x": 0.5558035714285714,
+            "y": 0.5558035714285714,
+            "width": 498,
+            "height": 498
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 100,
+          "y": 88,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 59,
+          "text": "<font>¡Gracias por vuestra atención!</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 1080,
+      "y": 420
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 240,
+        "y": 60,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 64,
+        "text": "<font>Ser social es una necesidad</font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 40,
+        "y": 560,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<div style=\"text-align: center;\">Internet</div><font><div style=\"text-align: center;\">Instrumento Democratizador</div></font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 600,
+        "y": 560,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<div style=\"text-align: center;\">Open Source</div><font><div style=\"text-align: center;\">Próxima Revolución</div></font>",
+        "selected": false
+      },
+      {
+        "src": "http://www.freeiconspng.com/uploads/the-peace-on-demand--peace-revolution-8.png",
+        "type": "Image",
+        "x": 712,
+        "y": 643,
+        "scale": {
+          "x": 0.18,
+          "y": 0.18,
+          "width": 108,
+          "height": 108
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "http://icons.iconarchive.com/icons/dtafalonso/modern-xp/512/ModernXP-68-Internet-icon.png",
+        "type": "Image",
+        "x": 218,
+        "y": 657,
+        "scale": {
+          "x": 0.1953125,
+          "y": 0.1953125,
+          "width": 100,
+          "height": 100
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 100,
+        "y": 240,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<div style=\"text-align: center;\">Sistema de Información</div><font><div style=\"text-align: center;\">&nbsp;Personal</div></font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 580,
+        "y": 240,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<div style=\"text-align: center;\">Sistema de Información</div><font><div style=\"text-align: center;\">&nbsp;Público y Colectivo</div></font>",
+        "selected": false
+      },
+      {
+        "src": "https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/evernote.png",
+        "type": "Image",
+        "x": 224,
+        "y": 365,
+        "scale": {
+          "x": 0.3166666666666667,
+          "y": 0.3166666666666667,
+          "width": 114.00000000000001,
+          "height": 114.00000000000001
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png",
+        "type": "Image",
+        "x": 640,
+        "y": 380,
+        "scale": {
+          "x": 0.176,
+          "y": 0.176,
+          "width": 88,
+          "height": 88
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "https://image.flaticon.com/icons/png/512/23/23957.png",
+        "type": "Image",
+        "x": 740,
+        "y": 380,
+        "scale": {
+          "x": 0.1796875,
+          "y": 0.1796875,
+          "width": 92,
+          "height": 92
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "http://alternativeto.net/apple-touch-icon.png",
+        "type": "Image",
+        "x": 846,
+        "y": 380,
+        "scale": {
+          "x": 0.1640625,
+          "y": 0.1640625,
+          "width": 84,
+          "height": 84
+        },
+        "imageType": "PNG",
+        "selected": false,
+        "rotate": 0
+      },
+      {
+        "TextBox": {},
+        "x": 418,
+        "y": 375,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 36,
+        "text": "<font><b>Proyección<br>Profesional</b><br></font>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 10,
+    "selected": false,
+    "active": true,
+    "x": 2580,
+    "y": 420
+  },
+  "fileName": "Desarrollo Colaborativo de Software",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 1380,
+  "overviewY": 300
+}
