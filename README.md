@@ -1,7 +1,7 @@
 # Desarrollo Colaborativo de Software
 Presentación realizada con [Strut](https://github.com/tantaman/Strut) e [impress.js](https://github.com/impress/impress.js/)
 
-### [Ver Presentación](https://cdn.rawgit.com/RDCH106/Desarrollo_Colaborativo_de_Software/e5fba912/Desarrollo_Colaborativo_de_Software.html#/step-1)
+### [Ver Presentación](https://raw.githack.com/RDCH106/Desarrollo_Colaborativo_de_Software/master/Desarrollo_Colaborativo_de_Software.html#/step-1)
 
 ```
 Licencia Creative Commons
